@@ -1,4 +1,4 @@
-package global;
+package src.global;
 
 
 public class Basic_02 {

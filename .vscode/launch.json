@@ -6,6 +6,97 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Practice_01",
+            "request": "launch",
+            "mainClass": "src.global.Practice_01",
+            "projectName": "academy_class_7f0e37d2"
+        },
+        {
+            "type": "java",
+            "name": "Variable_08",
+            "request": "launch",
+            "mainClass": "src.global.Variable_08",
+            "projectName": "academy_class_7f0e37d2"
+        },
+        {
+            "type": "java",
+            "name": "Variable_07",
+            "request": "launch",
+            "mainClass": "src.global.Variable_07",
+            "projectName": "academy_class_7f0e37d2"
+        },
+        {
+            "type": "java",
+            "name": "Variable_05",
+            "request": "launch",
+            "mainClass": "src.global.Variable_05",
+            "projectName": "academy_class_7f0e37d2"
+        },
+        {
+            "type": "java",
+            "name": "Variable_04",
+            "request": "launch",
+            "mainClass": "src.global.Variable_04",
+            "projectName": "academy_class_7f0e37d2"
+        },
+        {
+            "type": "java",
+            "name": "Variable_01",
+            "request": "launch",
+            "mainClass": "src.global.Variable_01",
+            "projectName": "academy_class_7f0e37d2"
+        },
+        {
+            "type": "java",
+            "name": "Basic_02",
+            "request": "launch",
+            "mainClass": "src.global.Basic_02",
+            "projectName": "academy_class_7f0e37d2"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "academy_class_7f0e37d2"
+        },
+        {
+            "type": "java",
+            "name": "Basic_01",
+            "request": "launch",
+            "mainClass": "src.global.Basic_01",
+            "projectName": "academy_class_7f0e37d2"
+        },
+        {
+            "type": "java",
+            "name": "Basic_06",
+            "request": "launch",
+            "mainClass": "global.Basic_06",
+            "projectName": "academy_class_7f0e37d2"
+        },
+        {
+            "type": "java",
+            "name": "Basic_05",
+            "request": "launch",
+            "mainClass": "global.Basic_05",
+            "projectName": "academy_class_7f0e37d2"
+        },
+        {
+            "type": "java",
+            "name": "Basic_04",
+            "request": "launch",
+            "mainClass": "global.Basic_04",
+            "projectName": "academy_class_7f0e37d2"
+        },
+        {
+            "type": "java",
+            "name": "Basic_03",
+            "request": "launch",
+            "mainClass": "global.Basic_03",
+            "projectName": "academy_class_7f0e37d2"
+        },
+        {
+            "type": "java",
             "name": "Basic_01",
             "request": "launch",
             "mainClass": "global.Basic_01",
@@ -23,8 +114,7 @@
             "type": "java",
             "name": "Current File",
             "request": "launch",
-            "mainClass": "${file}",
-            "args": "Hello World!"
+            "mainClass": "${file}"
         }
     ]
 }
